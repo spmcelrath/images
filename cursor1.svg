@@ -22,7 +22,7 @@
     </defs>
     <g fill="none" fill-rule="evenodd" transform="translate(-221 -276)">
         <use fill="#000" filter="url(#b)" xlink:href="#a"/>
-        <use fill="#FFF" xlink:href="#a"/>
+        <use fill="lightgreen" xlink:href="#a"/>
         <use stroke="#000" stroke-width="6" mask="url(#c)" xlink:href="#a"/>
     </g>
 </svg>
